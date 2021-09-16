@@ -34,7 +34,7 @@ PC move :
 ```
 
 ## Project file
-[Tic Tac Toe](https://github.com/XAbirHasan)
+[Tic Tac Toe](https://github.com/XAbirHasan/TicTacToe-AI/blob/master/tic_tac_toe.ipynb)
 
 ## Authors
 
