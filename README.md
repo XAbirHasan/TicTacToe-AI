@@ -2,6 +2,8 @@
  Simple tic tac toe game using AI.  
  This game use the min-max algorithm for the bot system, and you cannot win with this. ;)
 
+ **Use google colab for better visual experience.
+
  ## Project description
 Name: Tic Tac Toe <br>
 Programming Language: python <br>
