@@ -7,7 +7,6 @@
  ## Project description
 Name: Tic Tac Toe <br>
 Programming Language: python <br>
-Project No: 16 <br>
 Year: 2020
 
 ## how to play
