@@ -10,6 +10,9 @@ Programming Language: python <br>
 Project No: 16 <br>
 Year: 2020
 
+## Demo Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/7o2VS5ra1Kc/0.jpg)](http://www.youtube.com/watch?v=7o2VS5ra1Kc "TicTacToe-AI || python dev")
+
 ## how to play
 Player symbol: X<br>
 CPU symbol: Z<br>
